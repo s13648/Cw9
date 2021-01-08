@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace LinqConsoleApp
 {
@@ -8,6 +9,7 @@ namespace LinqConsoleApp
         {
             var d = new LinqSamples();
             //d.Przyklad1();
+            d.Przyklad12();
         }
     }
 }
